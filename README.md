@@ -1,4 +1,4 @@
-# -CodePilot-
+# CodePilot
 “CodePilot”程序员实时协同面试平台
 # 📂 interview-platform 项目结构
 
